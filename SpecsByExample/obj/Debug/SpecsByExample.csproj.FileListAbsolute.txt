@@ -1,0 +1,15 @@
+E:\Edu\Agile\AgileCsd\SpecsByExample\bin\Debug\SpecsByExample.dll.config
+E:\Edu\Agile\AgileCsd\SpecsByExample\bin\Debug\SpecsByExample.dll
+E:\Edu\Agile\AgileCsd\SpecsByExample\bin\Debug\SpecsByExample.pdb
+E:\Edu\Agile\AgileCsd\SpecsByExample\bin\Debug\Newtonsoft.Json.dll
+E:\Edu\Agile\AgileCsd\SpecsByExample\bin\Debug\nunit.framework.dll
+E:\Edu\Agile\AgileCsd\SpecsByExample\bin\Debug\TechTalk.SpecFlow.dll
+E:\Edu\Agile\AgileCsd\SpecsByExample\bin\Debug\Newtonsoft.Json.xml
+E:\Edu\Agile\AgileCsd\SpecsByExample\bin\Debug\nunit.framework.xml
+E:\Edu\Agile\AgileCsd\SpecsByExample\obj\Debug\SpecsByExample.csprojResolveAssemblyReference.cache
+E:\Edu\Agile\AgileCsd\SpecsByExample\obj\Debug\SpecsByExample.dll
+E:\Edu\Agile\AgileCsd\SpecsByExample\obj\Debug\SpecsByExample.pdb
+E:\Edu\Agile\AgileCsd\SpecsByExample\bin\Debug\WebDriver.dll
+E:\Edu\Agile\AgileCsd\SpecsByExample\bin\Debug\WebDriver.xml
+E:\Edu\Agile\AgileCsd\SpecsByExample\bin\Debug\RpnCalculatorApp.dll
+E:\Edu\Agile\AgileCsd\SpecsByExample\bin\Debug\RpnCalculatorApp.pdb

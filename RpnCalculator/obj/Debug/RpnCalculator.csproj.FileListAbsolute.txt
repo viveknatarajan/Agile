@@ -1,0 +1,5 @@
+E:\Edu\Agile\AgileCsd\RpnCalculator\bin\Debug\RpnCalculatorApp.dll
+E:\Edu\Agile\AgileCsd\RpnCalculator\bin\Debug\RpnCalculatorApp.pdb
+E:\Edu\Agile\AgileCsd\RpnCalculator\obj\Debug\RpnCalculatorApp.dll
+E:\Edu\Agile\AgileCsd\RpnCalculator\obj\Debug\RpnCalculatorApp.pdb
+E:\Edu\Agile\AgileCsd\RpnCalculator\obj\Debug\RpnCalculator.csprojResolveAssemblyReference.cache

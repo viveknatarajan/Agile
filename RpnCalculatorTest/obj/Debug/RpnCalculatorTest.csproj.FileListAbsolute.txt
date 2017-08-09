@@ -1,0 +1,9 @@
+E:\Edu\Agile\AgileCsd\RpnCalculatorTest\bin\Debug\RpnCalculatorTest.dll
+E:\Edu\Agile\AgileCsd\RpnCalculatorTest\bin\Debug\RpnCalculatorTest.pdb
+E:\Edu\Agile\AgileCsd\RpnCalculatorTest\bin\Debug\nunit.framework.dll
+E:\Edu\Agile\AgileCsd\RpnCalculatorTest\bin\Debug\RpnCalculatorApp.dll
+E:\Edu\Agile\AgileCsd\RpnCalculatorTest\bin\Debug\RpnCalculatorApp.pdb
+E:\Edu\Agile\AgileCsd\RpnCalculatorTest\bin\Debug\nunit.framework.xml
+E:\Edu\Agile\AgileCsd\RpnCalculatorTest\obj\Debug\RpnCalculatorTest.csprojResolveAssemblyReference.cache
+E:\Edu\Agile\AgileCsd\RpnCalculatorTest\obj\Debug\RpnCalculatorTest.dll
+E:\Edu\Agile\AgileCsd\RpnCalculatorTest\obj\Debug\RpnCalculatorTest.pdb
